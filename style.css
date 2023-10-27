@@ -163,6 +163,7 @@ img {
         background-color: rgb(44, 44, 44);
         padding-bottom: 50px;
         margin-bottom: 0;
+        padding-top: 40px;
     }
 
     .steps{
@@ -173,15 +174,20 @@ img {
         margin-bottom: 40px;
     }
 
-    .why-us .container{
-        padding-top: 50px;
-        background-color: rgb(44, 44, 44);
-        margin:0px;
-    }
-
     .col-left{
         margin-bottom: 100px;
     }
 
     
+}
+
+
+/*bonus*/
+
+@media all and (max-width:1160px){
+
+    .container{
+        width: 100%;
+    }
+
 }
