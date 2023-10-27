@@ -161,6 +161,7 @@ img {
     
     .why-us{
         background-color: rgb(44, 44, 44);
+        padding-bottom: 50px;
     }
 
     .steps{
@@ -174,6 +175,11 @@ img {
     .why-us .container{
         padding-top: 50px;
         background-color: rgb(44, 44, 44);
+        margin:0px;
+    }
+
+    .col-left{
+        margin-bottom: 100px;
     }
 
     
