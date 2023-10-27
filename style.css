@@ -160,7 +160,21 @@ img {
     }
     
     .why-us{
-        background-color: black;
+        background-color: rgb(44, 44, 44);
     }
 
+    .steps{
+        margin: 0;
+    }
+
+    p{
+        margin-bottom: 40px;
+    }
+
+    .why-us .container{
+        padding-top: 50px;
+        background-color: rgb(44, 44, 44);
+    }
+
+    
 }
