@@ -162,6 +162,7 @@ img {
     .why-us{
         background-color: rgb(44, 44, 44);
         padding-bottom: 50px;
+        margin-bottom: 0;
     }
 
     .steps{
